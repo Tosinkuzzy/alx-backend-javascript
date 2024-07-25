@@ -1,0 +1,15 @@
+{
+  "name": "0x01-ES6_promise",
+  "version": "1.0.0",
+  "description": "0x01-ES6_promise",
+  "main": "0-main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "node 0-main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
