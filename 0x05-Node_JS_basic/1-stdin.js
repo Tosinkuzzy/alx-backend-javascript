@@ -13,5 +13,5 @@ process.stdin.on('end', () => {
 });
 
 process.stdin.on('readable', () => {
-    const chunk = process.stdout.write(${chunk}'Program successfully excuted');
-}):
+    const chunk = process.stdout.write('Program successfully excuted ${chunk}');
+});
